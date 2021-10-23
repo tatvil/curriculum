@@ -1,0 +1,48 @@
+*{
+  background-color:#e0f7fa;
+  font-family: 'Space Mono', monospace;
+  color:#006064;
+}
+
+header{
+  background-color: #006064;
+  color: #e0f7fa;
+  font-family: space-mono;
+}
+
+a{
+  color: #00bcd4;
+}
+
+a.hover{
+  background-color: #00bcd4;
+  color: #006064;
+}
+h1
+{
+  background-color: #006064;
+  color: #e0f7fa;
+  padding: 10px;
+}
+
+small
+{
+  background-color: #006064;
+  color: #e0f7fa;
+  text-align: center;
+  padding: 10px;
+  font-size: .5em;
+}
+.container
+ {
+  background-color: #e0f7fa;
+ }
+
+ .accordion
+ {
+  background-color: #e0f7fa; 
+ }
+ .cabecera-item
+ {
+  background-color: #e0f7fa; 
+ }
