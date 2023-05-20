@@ -21,10 +21,7 @@
               <address><img src="img/alfiler.png" alt="ubicacion" width="25" height="25">Las Rozas de Madrid (Madrid - España) </address>
           </div>
           <div>
-              <dl>
-                 <b>e-mail: </b><a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a><br>
-                 <b>Teléfono: </b><a href="tel:639145826">639145826</a><br> 
-              </dl>
+              <dl><a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a><br></dl>
           </div>
           <div>
             <img src='img/tatiana-villa.jpg' width="100px" alt='foto de Tatiana Villa'>
@@ -152,14 +149,6 @@
             </table>
           </div>
           <div>
-              <h2>REDES SOCIALES</h2>
-              <div>
-                  <a href="https://www.facebook.com/tatiana.villaema"><img src="img/facebook redondo.png" alt="Facebook" width="30" height="30"></a>
-                  <a href="https://www.instagram.com/tatvil/"><img src="img/instagram color.png" alt="Instagram" width="30" height="30"></a>
-                  <a href="https://twitter.com/tatvil"><img src="img/twitter azul.png" alt="Twitter" width="30" height="30"></a>
-                  <a href="https://github.com/tatvil"><img src="img/github.png" alt="Github" width="30" height="30"></a>
-              </div>
-              <a href="https://www.flaticon.es/iconos-gratis/pin-de-ubicacion" title="pin de ubicación iconos">Gracias a Pin de ubicación iconos creados por Smashicons - Flaticon</a>
         </div>
       </div>
     </div>
