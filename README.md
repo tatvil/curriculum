@@ -18,7 +18,7 @@
           <p>Aqui tienes un avance de mi curriculum. Descargatelo, si quieres verlo más completo y más chulo.</p>
           <h2>DATOS PERSONALES</h2>
           <div>
-              <address><icon>pin</icon>💞️Las Rozas de Madrid (Madrid - España) </address>
+              <address><img src="img/alfiler.png" alt="ubicacion" width="30" height="30">💞️Las Rozas de Madrid (Madrid - España) </address>
                     </div>
                     <div>
                         <dl>
@@ -169,6 +169,7 @@
                     <a href="https://twitter.com/tatvil"><img src="img/twitter azul.png" alt="Twitter" width="30" height="30"></a>
                     <a href="https://github.com/tatvil"><img src="img/github.png" alt="Github" width="30" height="30"></a>
                 </div>
+                <a href="https://www.flaticon.es/iconos-gratis/pin-de-ubicacion" title="pin de ubicación iconos">Gracias a Pin de ubicación iconos creados por Smashicons - Flaticon</a>
         </div>
     </div>
 </div>
