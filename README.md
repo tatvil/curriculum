@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="curriculum de Tatiana Villa Ema con HTML5, CSS3 y javascript">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Curriculum Vitae - Tatiana Villa</title>
 </head>
 <body>
     <header>
@@ -16,6 +15,7 @@
     <div> 
       <div>
         <div>
+          <p>Aqui tienes un avance de mi curriculum. Descargatelo, si quieres verlo más completo y más chulo.</p>
           <h2>DATOS PERSONALES</h2>
           <div>
             <div>
