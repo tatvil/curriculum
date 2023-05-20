@@ -9,7 +9,7 @@
 <body>
     <header>
         <div id="nombre">
-            <h1 class='text-center'>TATIANA VILLA <small>Curriculum Vitae</small></h1>
+            <h1 class='text-center'>TATIANA VILLA</h1>
         </div>
     </header>
     <div> 
@@ -40,6 +40,11 @@
               <td>Institución</td>
             </tr>
           </thead>
+          <tr>
+            <td>2022-2024</td>
+            <td><a href="./FP_TS_DesarrolloApsMulti.pdf">Grado Superior: DAM (Diseño de Aplicaciones Multiplataforma)</a></td>
+            <td>UNIR - La universidad en Internet</td>
+          </tr>
           <tr>
             <td>2021</td>
             <td><a href="https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?metodo=verDetalle&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=">Certificado de Profesionalidad: IFCD0210 Desarrollo de Aplicaciones con Tecnologías WEB</a></td>
