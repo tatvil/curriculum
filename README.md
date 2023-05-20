@@ -84,30 +84,28 @@
     <div>
           <h2>EXPERIENCIA PROFESIONAL</h2>
           <div>
-            <div>
-                <div>
-                    <table>
-                    <thead>
-                      <tr>
-                          <th>Fecha</th>
-                          <th>Cargo</th>
-                          <th>Empresa</th>
-                          <th>Observaciones</th>
-                      </tr>
-                      </thead>
-                      <tr>
-                        <td>2016-2021</td>
-                        <td>Diseño y desarrollo de páginas WEB</td>
-                        <td>Freelance</td>
-                        <td>
-                            Clientes: 
-                                <ul>
-                                    <li><a href="http://www.ampaieselburgo.com">AMPA IES El Burgo</a></li>
-                                    <li><a href="http://www.tecnologia-facil.es">Tecnología Fácil</a></li>
-                                </ul>
-                        </td>
-                      </tr>
-                      <tr>
+              <table>
+                <thead>
+                    <tr>
+                      <th>Fecha</th>
+                      <th>Cargo</th>
+                      <th>Empresa</th>
+                      <th>Observaciones</th>
+                    </tr>
+                </thead>
+                    <tr>
+                      <td>2016-2021</td>
+                      <td>Diseño y desarrollo de páginas WEB</td>
+                      <td>Freelance</td>
+                      <td>
+                          Clientes: 
+                              <ul>
+                                <li><a href="http://www.ampaieselburgo.com">AMPA IES El Burgo</a></li>
+                                <li><a href="http://www.tecnologia-facil.es">Tecnología Fácil</a></li>
+                              </ul>
+                      </td>
+                    </tr>
+                    <tr>
                         <td>2003-2007</td>
                         <td>Administracion HPUX</td>
                         <td>Freelance</td>
@@ -118,14 +116,14 @@
                                     <li>Telefónica de España</li>
                                 </ul>
                         </td>
-                      </tr>
-                      <tr>
+                    </tr>
+                    <tr>
                         <td>1999-2001</td>
                         <td>Formadora de Administracion de HPUX</td>
                         <td>Hewlett Packard</td>
                         <td></td>
-                      </tr>
-                      <tr>
+                    </tr>
+                    <tr>
                         <td>1995-1999</td>
                         <td>Administracion de HPUX (Unix propietario de HP)</td>
                         <td>Hewlett Packard</td>
@@ -137,7 +135,7 @@
                                     <li>Telefónica de España</li>
                                 </ul>
                         </td>
-                      </tr>
+                    </tr>
                     <tr>
                         <td>1993-1995</td>
                         <td>Programadora (Power Builder y Oracle Forms)</td>
@@ -151,22 +149,19 @@
                             </ul>
                         </td>
                     </tr>               
-                    </table>
-                  </div>
-            </div>
+            </table>
           </div>
+          <div>
+              <h2>REDES SOCIALES</h2>
+              <div>
+                  <a href="https://www.facebook.com/tatiana.villaema"><img src="img/facebook redondo.png" alt="Facebook" width="30" height="30"></a>
+                  <a href="https://www.instagram.com/tatvil/"><img src="img/instagram color.png" alt="Instagram" width="30" height="30"></a>
+                  <a href="https://twitter.com/tatvil"><img src="img/twitter azul.png" alt="Twitter" width="30" height="30"></a>
+                  <a href="https://github.com/tatvil"><img src="img/github.png" alt="Github" width="30" height="30"></a>
+              </div>
+              <a href="https://www.flaticon.es/iconos-gratis/pin-de-ubicacion" title="pin de ubicación iconos">Gracias a Pin de ubicación iconos creados por Smashicons - Flaticon</a>
         </div>
-        <div>
-                <h2>REDES SOCIALES</h2>
-                <div>
-                    <a href="https://www.facebook.com/tatiana.villaema"><img src="img/facebook redondo.png" alt="Facebook" width="30" height="30"></a>
-                    <a href="https://www.instagram.com/tatvil/"><img src="img/instagram color.png" alt="Instagram" width="30" height="30"></a>
-                    <a href="https://twitter.com/tatvil"><img src="img/twitter azul.png" alt="Twitter" width="30" height="30"></a>
-                    <a href="https://github.com/tatvil"><img src="img/github.png" alt="Github" width="30" height="30"></a>
-                </div>
-                <a href="https://www.flaticon.es/iconos-gratis/pin-de-ubicacion" title="pin de ubicación iconos">Gracias a Pin de ubicación iconos creados por Smashicons - Flaticon</a>
-        </div>
+      </div>
     </div>
-</div>
-</body>
+  </body>
 </html>
