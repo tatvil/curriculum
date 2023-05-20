@@ -18,75 +18,70 @@
           <p>Aqui tienes un avance de mi curriculum. Descargatelo, si quieres verlo más completo y más chulo.</p>
           <h2>DATOS PERSONALES</h2>
           <div>
-              <address><img src="img/alfiler.png" alt="ubicacion" width="30" height="30">💞️Las Rozas de Madrid (Madrid - España) </address>
-                    </div>
-                    <div>
-                        <dl>
-                                <b>e-mail: </b><a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a><br>
-                                <b>Teléfono: </b>
-                                <a href="tel:639145826">639145826</a><br> 
-                        </dl>
-                    </div>
-                    <div>
-                        <img src='img/tatiana-villa.jpg' width="100px" alt='foto de Tatiana Villa'>
-                    </div>
-                </div>
+              <address><img src="img/alfiler.png" alt="ubicacion" width="25" height="25">Las Rozas de Madrid (Madrid - España) </address>
           </div>
-        </div>
-        <div>
-          <h2>FORMACION</h2>
           <div>
-            <div>
-                <div>
-                    <table>
-                    <thead>
-                      <tr>
-                          <td>Fecha</td>
-                          <td>Estudios</td>
-                          <td>Institución</td>
-                      </tr>
-                      </thead>
-                      <tr>
-                        <td>2021</td>
-                        <td><a href="https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?metodo=verDetalle&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=">Certificado de Profesionalidad: IFCD0210 Desarrollo de Aplicaciones con Tecnologías WEB</a></td>
-                        <td>Grupo Colón</td>
-                    </tr>
-                    <tr>
-                        <td>2021</td>
-                        <td><a href="https://www.comunidad.madrid/info/servicios/empleo/cursos/20-2387">Diseño WEB para comercio electrónico</a></td>
-                        <td>Grupo Aspasia</td>
-                    </tr>
-                    <tr>
-                        <td>2020-2021</td>
-                        <td>Experto en Robótica y diseño 3D</td>
-                        <td>UNIR</td>
-                    </tr>
-                    <tr>
-                        <td>2013-2016</td>
-                        <td>Fotografia digital y Adobe Photoshop</td>
-                        <td>Ayuntamiento de Las Rozas</td>
-                    </tr>
-                    <tr>
-                        <td>1995</td>
-                        <td>Fundamentos y Administración de Sistemas Operativos UNIX (HP-UX)</td>
-                        <td>Hewlett Packard</td>
-                    </tr>
-                    <tr>
-                          <td>1990-1994</td>
-                          <td>Informática</td>
-                          <td>Escuela de Sistemas Informáticos</td>
-                      </tr>  
-                      <tr>
-                        <td>1989-1990</td>
-                        <td>Bachillerato</td>
-                        <td><a href="https://richland.rsd.edu/">Richland High School</a> (Estados Unidos)</td>
-                    </tr>                 
-                    </table>
-                  </div>
-            </div>
+              <dl>
+                 <b>e-mail: </b><a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a><br>
+                 <b>Teléfono: </b><a href="tel:639145826">639145826</a><br> 
+              </dl>
+          </div>
+          <div>
+            <img src='img/tatiana-villa.jpg' width="100px" alt='foto de Tatiana Villa'>
           </div>
         </div>
-        <div>
+      </div>
+    </div>
+    <div>
+      <h2>FORMACION</h2>
+      <div>
+        <table>
+          <thead>
+            <tr>
+              <td>Fecha</td>
+              <td>Estudios</td>
+              <td>Institución</td>
+            </tr>
+          </thead>
+          <tr>
+            <td>2021</td>
+            <td><a href="https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?metodo=verDetalle&codEspecialidad=IFCD0210&volver=true&idBusquedaFormacion=&volverUrl=">Certificado de Profesionalidad: IFCD0210 Desarrollo de Aplicaciones con Tecnologías WEB</a></td>
+            <td>Grupo Colón</td>
+          </tr>
+          <tr>
+            <td>2021</td>
+            <td><a href="https://www.comunidad.madrid/info/servicios/empleo/cursos/20-2387">Diseño WEB para comercio electrónico</a></td>
+            <td>Grupo Aspasia</td>
+          </tr>
+          <tr>
+            <td>2020-2021</td>
+            <td>Experto en Robótica y diseño 3D</td>
+            <td>UNIR</td>
+          </tr>
+          <tr>
+            <td>2013-2016</td>
+            <td>Fotografia digital y Adobe Photoshop</td>
+            <td>Ayuntamiento de Las Rozas</td>
+          </tr>
+          <tr>
+            <td>1995</td>
+            <td>Fundamentos y Administración de Sistemas Operativos UNIX (HP-UX)</td>
+            <td>Hewlett Packard</td>
+          </tr>
+          <tr>
+            <td>1990-1994</td>
+            <td>Informática</td>
+            <td>Escuela de Sistemas Informáticos</td>
+          </tr>  
+          <tr>
+          <td>1989-1990</td>
+            <td>Bachillerato</td>
+            <td><a href="https://richland.rsd.edu/">Richland High School</a> (Estados Unidos)</td>
+          </tr>                 
+        </table>
+      </div>
+    </div>
+    <div>
           <h2>EXPERIENCIA PROFESIONAL</h2>
           <div>
             <div>
