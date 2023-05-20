@@ -13,46 +13,39 @@
             <h1 class='text-center'>TATIANA VILLA <small>Curriculum Vitae</small></h1>
         </div>
     </header>
-    <div id='contenedor' class="container"> 
-    <div class="accordion accordion-flush" id="accordionFlushExample">
-        <div class="accordion-item">
-          <h2 class="accordion-header cabecera-item" id="flush-headingOne">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#datosPersonales" aria-expanded="false" aria-controls="flush-collapseOne"><i class="fa fa-user"></i>DATOS PERSONALES<i class="fa fa-arrows-v pull-right"></i>
-            </button>
-          </h2>
-          <div id="datosPersonales" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">
-                <div class="row">
-                    <div class="celda col-md-5">
-                        <dt>Domicilio </dt>
+    <div> 
+      <div>
+        <div>
+          <h2>DATOS PERSONALES</h2>
+          <div>
+            <div>
+                <div>
+                    <div>
+                        <dt>Domicilio: </dt>
                         <address>
                             Las Rozas de Madrid<br>
                             28290 - Madrid<br>
                         </address>
                     </div>
-                    <div class="celda col-md-5">
-                        <dl class="dl-horizontal">
-                                <strong>e-mail: </strong><a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a><br>
-                                <strong>Teléfono: </strong>
+                    <div>
+                        <dl>
+                                <b>e-mail: </b><a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a><br>
+                                <b>Teléfono: </b>
                                 <a href="tel:639145826">639145826</a><br> 
                         </dl>
                     </div>
-                    <div class="celda foto col-md-2">
-                        <img class='thumbnail rounded' src='img/tatiana-villa.jpg'width="100px" alt='foto de Tatiana Villa'>
+                    <div>
+                        <img src='img/tatiana-villa.jpg' width="100px" alt='foto de Tatiana Villa'>
                     </div>
                 </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="flush-headingTwo">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-              FORMACION
-            </button>
-          </h2>
-          <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">
-                <div class="table-responsive">
-                    <table class="table">
+        <div>
+          <h2>FORMACION</h2>
+          <div>
+            <div>
+                <div>
+                    <table>
                     <thead>
                       <tr>
                           <td>Fecha</td>
@@ -100,12 +93,12 @@
             </div>
           </div>
         </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="flush-headingThree">  EXPERIENCIA PROFESIONAL  </h2>
+        <div>
+          <h2>EXPERIENCIA PROFESIONAL</h2>
           <div>
-            <div class="accordion-body">
-                <div class="table-responsive">
-                    <table class="table">
+            <div>
+                <div>
+                    <table>
                     <thead>
                       <tr>
                           <th>Fecha</th>
@@ -126,7 +119,6 @@
                                 </ul>
                         </td>
                       </tr>
-
                       <tr>
                         <td>2003-2007</td>
                         <td>Administracion HPUX</td>
@@ -169,7 +161,6 @@
                                 <li>Red de Hospitales de San Juan de Dios (Sevilla)</li>
                                 <li>MUSAAT (Mutua de Seguros de Aparejadores y Arquitectos Técnicos)</li>
                             </ul>
-
                         </td>
                     </tr>               
                     </table>
@@ -177,25 +168,14 @@
             </div>
           </div>
         </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header cabecera-item" id="flush-headingRedesSociales">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#redesSociales" aria-expanded="false" aria-controls="flush-collapseResesSociales"><i class="fa fa-user"></i>REDES SOCIALES<i class="fa fa-arrows-v pull-right"></i>
-                    </button>
-                </h2>
-                <div id="redesSociales" class="accordion-collapse collapse" aria-labelledby="flush-headingRedesSociales" data-bs-parent="#accordionFlushRedesSociales">
-                    <div class="accordion-body">
-                        <div class="container">
-                            <div class="row row-cols-auto">
-                              <div class="col"> <a href="https://www.facebook.com/tatiana.villaema"><img src="img/facebook redondo.png" alt="Facebook" width="30" height="30"></a></div>
-                              <div class="col"><a href="https://www.instagram.com/tatvil/"><img src="img/instagram color.png" alt="Instagram" width="30" height="30"></a></div>
-                              <div class="col"><a href="https://twitter.com/tatvil"><img src="img/twitter azul.png" alt="Twitter" width="30" height="30"></a></div>
-                              <div class="col"><a href="https://github.com/tatvil"><img src="img/github.png" alt="Github" width="30" height="30"></a></div>
-                            </div>
-                          </div>
-
-                    </div>
+        <div>
+                <h2>REDES SOCIALES</h2>
+                <div>
+                    <div><a href="https://www.facebook.com/tatiana.villaema"><img src="img/facebook redondo.png" alt="Facebook" width="30" height="30"></a></div>
+                    <div><a href="https://www.instagram.com/tatvil/"><img src="img/instagram color.png" alt="Instagram" width="30" height="30"></a></div>
+                    <div><a href="https://twitter.com/tatvil"><img src="img/twitter azul.png" alt="Twitter" width="30" height="30"></a></div>
+                    <div><a href="https://github.com/tatvil"><img src="img/github.png" alt="Github" width="30" height="30"></a></div>
                 </div>
-            </div>
         </div>
     </div>
 </div>
