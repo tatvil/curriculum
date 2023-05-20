@@ -18,14 +18,7 @@
           <p>Aqui tienes un avance de mi curriculum. Descargatelo, si quieres verlo más completo y más chulo.</p>
           <h2>DATOS PERSONALES</h2>
           <div>
-            <div>
-                <div>
-                    <div>
-                        <dt>Domicilio: </dt>
-                        <address>
-                            Las Rozas de Madrid<br>
-                            28290 - Madrid<br>
-                        </address>
+              <address><icon>pin</icon>💞️Las Rozas de Madrid (Madrid - España) </address>
                     </div>
                     <div>
                         <dl>
