@@ -1,48 +1,60 @@
-*{
-  background-color:#e0f7fa;
-  font-family: 'Space Mono', monospace;
-  color:#006064;
+
+
+* {
+  font-family: 'Space Mono', monospace,Gotham, Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  padding: 0;
+  --color-oscuro:#0054a4;
+  --color-medio: #007dc3;
+  --color-claro: #a4d7f4;
+  --color-secundario: #e11b22;
+  --color-secundario-claro: #e1abb2;
+  background-color: var(--color-claro);
 }
 
 header{
-  background-color: #006064;
-  color: #e0f7fa;
+  background-color: var(--color-oscuro);
+  color: var(--color-claro);
   font-family: space-mono;
 }
 
 a{
-  color: #00bcd4;
+  color: var(--color-medio);
 }
 
 a.hover{
-  background-color: #00bcd4;
-  color: #006064;
+  background-color: var(--color-claro);
+  color: var(--color-oscuro);
 }
+
 h1
 {
-  background-color: #006064;
-  color: #e0f7fa;
+  background-color: var(--color-oscuro);
+  color: var(var(--color-claro));
   padding: 10px;
 }
 
 small
 {
-  background-color: #006064;
-  color: #e0f7fa;
+  background-color: var(--color-oscuro);
+  color: var(--color-claro);
   text-align: center;
   padding: 10px;
   font-size: .5em;
+  padding: 10px;
 }
+
 .container
  {
-  background-color: #e0f7fa;
+  background-color: var(--color-claro);
+
  }
 
  .accordion
  {
-  background-color: #e0f7fa; 
+  background-color: var(--color-claro); 
  }
  .cabecera-item
  {
-  background-color: #e0f7fa; 
+  background-color: var(--color-claro); 
  }
