@@ -106,7 +106,7 @@
               EXPERIENCIA PROFESIONAL
             </button>
           </h2>
-          <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+          <div>
             <div class="accordion-body">
                 <div class="table-responsive">
                     <table class="table">
