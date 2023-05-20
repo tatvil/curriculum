@@ -108,10 +108,10 @@
                     <table class="table">
                     <thead>
                       <tr>
-                          <td>Fecha</td>
-                          <td>Cargo</td>
-                          <td>Empresa</td>
-                          <td>Observaciones</td>
+                          <th>Fecha</th>
+                          <th>Cargo</th>
+                          <th>Empresa</th>
+                          <th>Observaciones</th>
                       </tr>
                       </thead>
                       <tr>
