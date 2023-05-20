@@ -171,10 +171,10 @@
         <div>
                 <h2>REDES SOCIALES</h2>
                 <div>
-                    <div><a href="https://www.facebook.com/tatiana.villaema"><img src="img/facebook redondo.png" alt="Facebook" width="30" height="30"></a></div>
-                    <div><a href="https://www.instagram.com/tatvil/"><img src="img/instagram color.png" alt="Instagram" width="30" height="30"></a></div>
-                    <div><a href="https://twitter.com/tatvil"><img src="img/twitter azul.png" alt="Twitter" width="30" height="30"></a></div>
-                    <div><a href="https://github.com/tatvil"><img src="img/github.png" alt="Github" width="30" height="30"></a></div>
+                    <a href="https://www.facebook.com/tatiana.villaema"><img src="img/facebook redondo.png" alt="Facebook" width="30" height="30"></a>
+                    <a href="https://www.instagram.com/tatvil/"><img src="img/instagram color.png" alt="Instagram" width="30" height="30"></a>
+                    <a href="https://twitter.com/tatvil"><img src="img/twitter azul.png" alt="Twitter" width="30" height="30"></a>
+                    <a href="https://github.com/tatvil"><img src="img/github.png" alt="Github" width="30" height="30"></a>
                 </div>
         </div>
     </div>
