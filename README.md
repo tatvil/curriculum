@@ -5,7 +5,6 @@ Aqui tienes un avance de mi curriculum. Descargatelo, si quieres verlo más comp
 ##DATOS PERSONALES
 <img src="img/alfiler.png" alt="ubicacion" width="25" height="25">Las Rozas de Madrid (Madrid - España)
 <a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a>
-<img src='img/tatiana-villa.jpg' width="100px" alt='foto de Tatiana Villa'>
 
 ##FORMACION
 - Grado Superior: DAM (Diseño de Aplicaciones Multiplataforma)
