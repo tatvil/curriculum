@@ -1,8 +1,8 @@
-#TATIANA VILLA
+# TATIANA VILLA
 
 Aqui tienes un avance de mi curriculum. Descargatelo, si quieres verlo más completo y más chulo.
 
-##DATOS PERSONALES
+## DATOS PERSONALES
 <img src="img/alfiler.png" alt="ubicacion" width="25" height="25">Las Rozas de Madrid (Madrid - España)
 <a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a>
 
