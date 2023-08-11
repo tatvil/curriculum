@@ -6,7 +6,7 @@ Aqui tienes un avance de mi curriculum. Descargatelo, si quieres verlo más comp
 <img src="img/alfiler.png" alt="ubicacion" width="25" height="25">Las Rozas de Madrid (Madrid - España)
 <a href="mailto:tatiana@tecnologia-facil.es">tatiana@tecnologia-facil.es</a>
 
-##FORMACION
+## FORMACION
 - Grado Superior: DAM (Diseño de Aplicaciones Multiplataforma)
 - IFCD0210 Desarrollo de Aplicaciones con Tecnologías WEB
 - Diseño WEB para comercio electrónico
@@ -16,7 +16,7 @@ Aqui tienes un avance de mi curriculum. Descargatelo, si quieres verlo más comp
 - Diplomatura en Informática
 - Bachillerato enEstados Unidos
 
-##EXPERIENCIA PROFESIONAL
+## EXPERIENCIA PROFESIONAL
 - Diseño y desarrollo de páginas WEB con Wordpress, PHP, MySQL, JavaScript, CSS
   - Algunos de mis trabajos son: <a href="http://www.inmorozas.es">INMO Rozas</a>, <a href="http://www.alquiler-facil.es">Alquiler Fácil</a> y <a href="http://www.tecnologia-facil.es">Tecnología Fácil</a>
 - Administracion de sistemas Linux
